@@ -11,4 +11,7 @@ gcc -S -fverbose-asm circle.c
 gcc -c circle.c
 gcc -v -o circle -Wa,-as=circle.sym,-L circle.c
 
+gcc -g -o circle -Wa,-a=circle.list,-L circle.c
+
+
 
