@@ -1,4 +1,4 @@
-## gcc(Gnu Compiler Collection)
+### gcc(Gnu Compiler Collection)
 
 https://gcc.gnu.org/onlinedocs/
 
